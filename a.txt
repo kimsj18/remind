@@ -1,2 +1,3 @@
 bye
 goodbye
+아무거나
